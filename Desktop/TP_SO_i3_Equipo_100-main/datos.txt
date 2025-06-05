@@ -1,1 +1,5 @@
 Tomas Cobos - IP: 192.168.0.33 - Hora: 11:24:05
+Lautaro Cardozo
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.27
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+11:49:30
