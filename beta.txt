@@ -3,3 +3,10 @@ Francisco Cuenca
    Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
    Direcci¢n IPv4. . . . . . . . . . . . . . : 172.23.32.1
 12:18:16
+Lautaro Cardozo
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.27
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+12:27:58
+Tomas Cobos
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.33
+13:10:15
