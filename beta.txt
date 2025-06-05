@@ -7,3 +7,6 @@ Lautaro Cardozo
    Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.27
    Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
 12:27:58
+Tomas Cobos
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.33
+13:10:15
